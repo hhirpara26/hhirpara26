@@ -1,4 +1,4 @@
-package com.pollia.utility;
+
 
 import android.content.Context;
 import android.telephony.TelephonyManager;
@@ -17,9 +17,7 @@ import java.util.List;
 
 import static com.facebook.FacebookSdk.getApplicationContext;
 
-/**
- * Created by imperoit on 2/23/18.
- */
+
 
 public class Constant {
 
