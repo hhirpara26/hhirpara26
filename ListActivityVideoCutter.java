@@ -1,4 +1,4 @@
-package video.cutter.mp3.activity;
+
 
 import android.Manifest;
 import android.app.Activity;
@@ -32,7 +32,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-import video.cutter.mp3.views.SavedFilesAdapter;
+
 
 public class ListActivity extends AppCompatActivity implements SavedFilesAdapter.OnFileClickedListener {
 
