@@ -1,4 +1,4 @@
-package com.icsdeliverysystem.storage;
+
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -8,8 +8,6 @@ import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
 
 import com.google.gson.Gson;
-import com.icsdeliverysystem.model.ModelJob;
-import com.icsdeliverysystem.utility.Utility;
 
 import java.util.ArrayList;
 import java.util.List;
