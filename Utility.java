@@ -1,5 +1,3 @@
-package com.pollia.utility;
-
 import android.Manifest;
 import android.annotation.SuppressLint;
 import android.annotation.TargetApi;
@@ -38,10 +36,6 @@ import android.view.inputmethod.InputMethodManager;
 import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 import android.widget.Toast;
-
-import com.pollia.R;
-import com.pollia.app.MyApplication;
-import com.pollia.storage.SharedPreferenceUtil;
 
 import java.io.ByteArrayInputStream;
 import java.io.File;
